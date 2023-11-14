@@ -1,0 +1,38 @@
+{
+    "dialogs": [
+        {
+            "_id": "d95b2b8d46ebc680284bb1e90692f8d4",
+            "text": "I you wanna be the best, you gotta beat the best, and the best is blessed babyyyyy",
+            "created_at": "new Date(2021, 2, 3)",
+            "user": {
+                "_id": "d95b2b8d46ebc680284bb1e90692f8d4",
+                "fullname": "Vage Igityan",
+                "avatar": "https: //themoviekarma.files.wordpress.com/2021/05/6e35a-16108415420871-800.jpg"
+            }
+        },
+        {
+            "_id": "d95b2b8d46ebc680284bb1e90692f8d4",
+            "text": "The Gods envy us. They envy us, because we are mortal. Because at any time we can die. You'll never be prettier, than now. We'll never be here again",
+            "created_at": "new Date()",
+            "user": {
+                "_id": "d95b2b8d46ebc680284bb1e90692f8d4",
+                "fullname": "Cristiano Ronaldo",
+                "avatar": null
+            }
+        }
+    ],
+    "messages": [
+        {
+            "_id": "d95b2b8d46ebc680284bb1e90692f8d4",
+            "avatar": "https: //themoviekarma.files.wordpress.com/2021/05/6e35a-16108415420871-800.jpg",
+            "text": "If you wanna be the best, you gotta beat the best, and the best is blessed babyyyyy",
+            "created_at": "new Date(2021, 2, 3)",
+            "user": {
+                "_id": "d95b2b8d46ebc680284bb1e90692f8d4",
+                "fullname": "Cristiano Ronaldo",
+                "avatar": "https: //themoviekarma.files.wordpress.com/2021/05/6e35a-16108415420871-800.jpg"
+            },
+            "dialog": "d95b2b8d46ebc680284bb1e90692f8d4"
+        }
+    ]
+}
